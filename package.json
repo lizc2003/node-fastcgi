@@ -1,0 +1,14 @@
+{
+    "name": "node-fastcgi",
+    "version": "0.1",
+    "description": "FastCGI implemented in node.js",
+    "keywords": "fastcgi",
+    "author": "lizc2003@gmail.com",
+    "main": "./lib/fastcgi",
+    "engines": { "node": ">= 0.4.0" },
+    "dependencies": {},
+    "repository" : {
+        "type" : "git",
+         "url" : "git://github.com/lizc2003/node-fastcgi.git"
+    }
+}
